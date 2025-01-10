@@ -62,5 +62,5 @@ def get_youtube_transcript(video_url, output_dir="transcripts"):
 
 if __name__ == "__main__":
     # Enter the YouTube video URL you want to extract the transcript from.
-    video_url = "https://youtu.be/EBTmNAxBOoY?si=js7yWw7Y0JFYbDX7"  # Enter URL
+    video_url = "https://youtu.be/EBTmNAxBOoY?si=jOaYbPNVL9P-fims"  # Enter URL
     get_youtube_transcript(video_url)
